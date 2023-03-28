@@ -1,4 +1,4 @@
-# python-projects-code for soduku
+code for soduku,
 code for path finder
 code for snake game
 code for number guessing name
